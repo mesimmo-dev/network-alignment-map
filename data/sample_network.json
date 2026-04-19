@@ -1,0 +1,26 @@
+[
+  {
+    "project": "Independent feature film",
+    "need": "Bridge financing",
+    "stakeholderType": "Private investor",
+    "pathway": "Warm introduction through existing network",
+    "priority": "High",
+    "nextStep": "Prepare a concise investor-facing summary and confirm referral path"
+  },
+  {
+    "project": "Documentary project",
+    "need": "Cinematographer",
+    "stakeholderType": "Production referral",
+    "pathway": "Crew network recommendation",
+    "priority": "Medium",
+    "nextStep": "Request two qualified referrals and review availability"
+  },
+  {
+    "project": "Series pilot",
+    "need": "Packaging support",
+    "stakeholderType": "Producer / advisor",
+    "pathway": "Strategic introduction",
+    "priority": "High",
+    "nextStep": "Identify aligned advisor and share project brief"
+  }
+]
